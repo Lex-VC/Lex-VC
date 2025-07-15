@@ -8,7 +8,7 @@
 
 ## 🔧 Skills & Expertise
 
-* **Languages & Tools**: Java, Python, Go, C/C++, F#, Git, Maven, Docker, Linux
+* **Languages & Tools**: Java, Python, Go, C/C++, F#, Maven, Docker, Linux
 * **Areas of Interest**: Robotics, Embedded Systems, Game Development, System Design, Automation
 
 
